@@ -1,0 +1,267 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+/*Login Page Styling*/
+
+.login-page
+{
+  height: 100vh;
+  background-color:	#4267B2 ;
+}
+
+.login-page-box
+{
+  background-color: white;
+  width: 33%;
+  height: 65%;
+  position: absolute;
+  left:34%;
+  top: 20%;
+  border-radius: 10px;
+}
+
+#login-page-main-title{
+  text-align: center;
+  margin-top: 40px;
+  font-size: 20px;
+}
+
+.login-page-form
+{
+  margin-top: 20px;
+  margin-left: 10%;
+}
+
+.login-page-list
+{
+  list-style: none;
+}
+
+.login-page-list li
+{
+  margin-top: 10px;
+}
+
+#email_login
+{
+  margin-top: 5px;
+  height: 30px;
+  width: 330px;
+}
+
+#password_login
+{
+  margin-top: 5px;
+  height: 30px;
+  width: 330px;
+}
+
+#remember_me
+{
+  margin-right: 5px;
+  margin-bottom: 20px;
+}
+
+#to_sign_in
+{
+  text-align: center;
+  margin-top: 20px;
+  font-size: 15px;
+}
+
+/*Login Page Styling*/
+
+.SignUp-page
+{
+  height: 100vh;
+  background-color:	#4267B2 ;
+}
+
+.SignUp-page-box
+{
+  background-color: white;
+  width: 33%;
+  height: 75%;
+  position: absolute;
+  left:34%;
+  top: 16%;
+  border-radius: 10px;
+}
+
+#SignUp-page-main-title{
+  text-align: center;
+  margin-top: 40px;
+  font-size: 20px;
+}
+
+.SignUp-page-form
+{
+  margin-top: 20px;
+  margin-left: 10%;
+}
+
+.SignUp-page-list
+{
+  list-style: none;
+}
+
+.SignUp-page-list li
+{
+  margin-top: 10px;
+}
+
+#new_name{
+  margin-top: 5px;
+  height: 30px;
+  width: 330px;
+}
+
+#new_password
+{
+  margin-top: 5px;
+  height: 30px;
+  width: 330px;
+}
+
+#new_password
+{
+  margin-top: 5px;
+  height: 30px;
+  width: 330px;
+}
+
+#remember_me_sigin
+{
+  margin-right: 5px;
+  margin-bottom: 20px;
+}
+
+#to_log_in
+{
+  text-align: center;
+  margin-top: 20px;
+  font-size: 15px;
+}
+
+Link {
+  text-decoration: none;
+}
+
+/* Facebook Login Page Styling*/
+
+.fbLogin-page
+{
+  height: 100vh;
+  background-color:	#4267B2 ;
+}
+
+.fbLogin-page-box
+{
+  background-color: white;
+  width: 33%;
+  height: 30%;
+  position: absolute;
+  left:34%;
+  top: 28%;
+  border-radius: 10px;
+}
+
+#fbLogin-page-main-title{
+  text-align: center;
+  margin-top: 40px;
+  font-size: 20px;
+}
+
+.fbLogin-button
+{
+  margin-top: 40px;
+  margin-left: 45px;
+}
+
+.fb-btn
+{
+  background-color: #1976d2;
+  height: 45px;
+  width: 330px;
+  color: white;
+  letter-spacing: 2px;
+}
+
+/* Facebook Login Page Styling*/
+
+.dcp-page
+{
+  height: 100vh;
+  background-color:	#4267B2 ;
+}
+
+.dcp-page-box
+{
+  background-color: white;
+  width: 33%;
+  height: 50%;
+  position: absolute;
+  left:34%;
+  top: 26%;
+  border-radius: 10px;
+}
+
+#dcp-page-main-title{
+  text-align: center;
+  margin-top: 40px;
+  font-size: 20px;
+}
+
+#dcp-page-nm-title
+{
+  text-align: center;
+  margin-top: 20px;
+  font-size: 20px;
+}
+
+.dcp-buttons
+{
+  margin-top: 40px;
+  margin-left: 45px;
+}
+
+.dcp-list
+{
+  list-style: none;
+}
+
+.dcp-list li
+{
+  margin-top: 10px;
+}
+
+/*Messenger page styling*/
+
+.msg-page
+{
+  background-color: #4267B2;
+  color: white;
+  height: 100vh;
+  text-align: center;
+}
+
